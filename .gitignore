@@ -1,7 +1,5 @@
 .DS_Store
 
-*.png
-*.pdf
 *.pkl
 *.zip
 *~
