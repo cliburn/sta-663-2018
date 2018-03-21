@@ -1,5 +1,13 @@
 .DS_Store
 
+*.png
+*.pdf
+*.pkl
+*.zip
+*~
+
+grading/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
