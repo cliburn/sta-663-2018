@@ -4,6 +4,9 @@
 *.zip
 *~
 
+notebooks/*.png
+notebooks/*.pdf
+
 grading/
 
 # Byte-compiled / optimized / DLL files
