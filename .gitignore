@@ -1,5 +1,12 @@
 .DS_Store
 
+Makefile*
+
+*.cpp
+*.hpp
+*.exe
+*.o
+
 *.pkl
 *.zip
 *~
