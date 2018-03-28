@@ -1,0 +1,4 @@
+pkg
+pkg/sub1
+pkg/sub2
+sta663

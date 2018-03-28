@@ -1,0 +1,15 @@
+README.txt
+run_sta663.py
+setup.py
+sta663.py
+pkg/__init__.py
+pkg/foo.py
+pkg/sub1/__init__.py
+pkg/sub1/more_sub1_stuff.py
+pkg/sub1/sub1_stuff.py
+pkg/sub2/__init__.py
+pkg/sub2/sub2_stuff.py
+sta663.egg-info/PKG-INFO
+sta663.egg-info/SOURCES.txt
+sta663.egg-info/dependency_links.txt
+sta663.egg-info/top_level.txt
