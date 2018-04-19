@@ -1,5 +1,11 @@
 .DS_Store
 
+_build/
+
+*.stan
+
+*.cppimporthash
+
 Makefile*
 
 *.cpp
